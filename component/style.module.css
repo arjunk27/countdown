@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0.1em;
+  gap: 5px;
+  font-size: 3vw;
+  line-height: 3.5vw;
+  width: 100%;
+}
+
+.container span {
+  flex-basis: 90% !important;
+}
